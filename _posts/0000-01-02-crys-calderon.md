@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This slide show is going to be so freaking cool.
+"Dear Naps, I'm sorry I was a jerk to you in kindergarten." - Crys
 Use the left arrow to go back!
